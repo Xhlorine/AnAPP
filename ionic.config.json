@@ -1,0 +1,7 @@
+{
+  "name": "telepathy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
